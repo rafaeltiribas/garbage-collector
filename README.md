@@ -1,0 +1,2 @@
+# coletordelixo_contref
+trab2_lp_coletordelixoautomaticoporcontagemdereferencia
